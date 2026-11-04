@@ -1,9 +1,13 @@
 # .github
 
 This repository holds the organisation profile only. The one file that matters
-is `profile/README.md`, which GitHub draws on the Third-ARK organisation page.
+is `profile/README.md`, which GitHub draws on the
+[Third-ARK organisation page](https://github.com/Third-ARK).
 
-GitHub only draws that file while this repository is **public**. It is private
-today, so the profile page shows nothing yet. Making this repository public is
-the only step between the file and the page, and it publishes nothing except
-the five links in it.
+**This repository is public, and it is the only public one.** GitHub only draws
+that file while it is, which is why it is. Everything in it is the five links
+on the profile and nothing else.
+
+The releases repository it links to for the download is private until the first
+release is published, so that one link answers 404 to anyone outside the
+organisation until then.
